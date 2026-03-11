@@ -1,0 +1,9 @@
+.vs/
+out/
+debug/
+release/
+*.exe
+*.obj
+*.pdb
+*.log
+*.db
